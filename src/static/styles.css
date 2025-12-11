@@ -78,6 +78,24 @@ section h3 {
   color: #1a237e;
 }
 
+.activity-card em {
+  color: #666;
+  font-style: italic;
+}
+
+.enrolled-list {
+  background-color: #e3f2fd;
+  padding: 8px 10px;
+  border-radius: 4px;
+  border-left: 3px solid #1a237e;
+  margin-top: 10px;
+}
+
+.enrolled-list span {
+  color: #0d47a1;
+  font-weight: 500;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
