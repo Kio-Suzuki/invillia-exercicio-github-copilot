@@ -83,7 +83,7 @@ section h3 {
   font-style: italic;
 }
 
-.enrolled-list {
+.participants-list {
   background-color: #e3f2fd;
   padding: 8px 10px;
   border-radius: 4px;
@@ -91,7 +91,7 @@ section h3 {
   margin-top: 10px;
 }
 
-.enrolled-list span {
+.participants-list span {
   color: #0d47a1;
   font-weight: 500;
 }
